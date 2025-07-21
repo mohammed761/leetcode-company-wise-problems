@@ -19,7 +19,7 @@ MEDIUM,Merge Intervals,59.5,0.4939525616898277,https://leetcode.com/problems/mer
 MEDIUM,Coin Change,59.5,0.4649557971017352,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
 EASY,Longest Common Prefix,59.5,0.4548314437013565,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
 MEDIUM,Edit Distance,59.5,0.5878980065613459,https://leetcode.com/problems/edit-distance,"String, Dynamic Programming"
-EASY,Reverse Linked List,59.5,0.7920658884935761,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+//EASY,Reverse Linked List,59.5,0.7920658884935761,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
 EASY,Article Views I,59.5,0.7714447529870836,https://leetcode.com/problems/article-views-i,Database
 EASY,Find Customer Referee,59.5,0.7170904181686228,https://leetcode.com/problems/find-customer-referee,Database
 EASY,Majority Element,59.5,0.657403393726359,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
