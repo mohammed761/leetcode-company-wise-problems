@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 MEDIUM,Change Null Values in a Table to the Previous Value,100.0,0.5152052486922599,https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value,Database
-EASY,Two Sum,97.3,0.5577698935805033,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+slove:EASY,Two Sum,97.3,0.5577698935805033,https://leetcode.com/problems/two-sum,"Array, Hash Table"
 HARD,Merge k Sorted Lists,91.0,0.5677423817534303,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
 EASY,Valid Parentheses,82.5,0.4232287331904933,https://leetcode.com/problems/valid-parentheses,"String, Stack"
 MEDIUM,Longest Palindromic Substring,76.9,0.3584614184401339,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
